@@ -1,1 +1,1 @@
-worker: python bot/Main.py
+worker: python Radiokayu/Main.py
